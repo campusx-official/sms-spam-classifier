@@ -50,5 +50,6 @@ if st.button('Predict'):
     # 4. Display
     if result == 1:
         st.header("Spam")
+        speak("This is a Spam Mail!)
     else:
         st.header("Not Spam")
