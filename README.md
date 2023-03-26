@@ -36,4 +36,4 @@ End to end code for the email spam classifier project
     ```
     
 9. Click on Deploy.
-10. Your deployment is complete. Click on the generated link and check if the website is working fine.
+10. Your deployment is complete.
